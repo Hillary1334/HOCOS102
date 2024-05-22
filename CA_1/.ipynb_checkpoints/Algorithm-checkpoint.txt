@@ -1,0 +1,27 @@
+1. Initialize Cafeteria Class:
+	-Initialise total_price and create the main window.
+	-Set up widgets like labels, entry fields, and buttons.
+
+2. Category Selection:
+	-Define functions for each category.
+	-Each function displays a menu of items when the corresponding button is clicked.
+
+3. Add to Cart:
+	-Prompt the user to input the quantity of the selected item.
+	-Calculate the total price of the order considering quantity and discounts.
+
+4. Process Order:
+	-Show a confirmation message and options to checkout or continue shopping.
+
+5. Checkout:
+	-Retrieve the customer name and display the total cost of the order.
+
+6. Calculate Total Price:
+	-Calculate the total price based on quantity and apply discounts.
+
+7. Display Menu:
+	-Open a new window to display menu items for a specific category.
+
+8. Run:
+	-Instantiate the Cafeteria class and start the Tkinter event loop.
+
